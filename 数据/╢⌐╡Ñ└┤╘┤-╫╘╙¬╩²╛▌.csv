@@ -1,0 +1,12 @@
+﻿source_type,source_type_name,order_fisrt_word
+1,专车,S
+2,平台,P
+3,机票,F
+4,酒店,无
+5,分销商,D
+7,拼车,J
+8,直通车,Z
+9,携程平台,C
+10,携程机票,T
+11,无线机票,W
+12,OTA,E

@@ -1,0 +1,17 @@
+INSERT INTO `order_taken_type_data` VALUES (1, '播报抢单');
+INSERT INTO `order_taken_type_data` VALUES (2, '接送机助手派单（订单大厅） ');
+INSERT INTO `order_taken_type_data` VALUES (3, '自动接单（抢单助手）');
+INSERT INTO `order_taken_type_data` VALUES (4, '保单供应商指派');
+INSERT INTO `order_taken_type_data` VALUES (5, '保单自动指派(保单司机)');
+INSERT INTO `order_taken_type_data` VALUES (6, 'BOSS指派');
+INSERT INTO `order_taken_type_data` VALUES (7, '立即单自动指派(非保单司机)');
+INSERT INTO `order_taken_type_data` VALUES (8, '代用户下单');
+INSERT INTO `order_taken_type_data` VALUES (9, '库管指派');
+INSERT INTO `order_taken_type_data` VALUES (10, '线路直通车保单指派');
+INSERT INTO `order_taken_type_data` VALUES (100, 'OTA司机接单');
+INSERT INTO `order_taken_type_data` VALUES (12, '直通车指派');
+INSERT INTO `order_taken_type_data` VALUES (13, '匹配单挂靠指派');
+INSERT INTO `order_taken_type_data` VALUES (14, '保单自动指派(直通车送机)');
+INSERT INTO `order_taken_type_data` VALUES (15, '保单手动指派(直通车送机)');
+INSERT INTO `order_taken_type_data` VALUES (16, '时段运力指派');
+INSERT INTO `order_taken_type_data` VALUES (17, '兜底指派');

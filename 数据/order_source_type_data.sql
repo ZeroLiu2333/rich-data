@@ -1,0 +1,11 @@
+INSERT INTO `order_source_type_data` VALUES (1, '专车', 'S');
+INSERT INTO `order_source_type_data` VALUES (2, '平台', 'P');
+INSERT INTO `order_source_type_data` VALUES (3, '机票', 'F');
+INSERT INTO `order_source_type_data` VALUES (4, '酒店', '无');
+INSERT INTO `order_source_type_data` VALUES (5, '分销商', 'D');
+INSERT INTO `order_source_type_data` VALUES (7, '拼车', 'J');
+INSERT INTO `order_source_type_data` VALUES (8, '直通车', 'Z');
+INSERT INTO `order_source_type_data` VALUES (9, '携程平台', 'C');
+INSERT INTO `order_source_type_data` VALUES (10, '携程机票', 'T');
+INSERT INTO `order_source_type_data` VALUES (11, '无线机票', 'W');
+INSERT INTO `order_source_type_data` VALUES (12, 'OTA', 'E');
